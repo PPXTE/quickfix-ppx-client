@@ -18,12 +18,14 @@ disconf/
 .project
 .settings
 .springBeans
+.gitattributes
 
 ### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
 *.ipr
+.gitattributes
 
 ### NetBeans ###
 nbproject/private/
